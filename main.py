@@ -1,4 +1,4 @@
-from fastapi import FastApwsPI, Query
+from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
 from dotenv import dotenv_values
 import os
